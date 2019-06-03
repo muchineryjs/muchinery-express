@@ -1,0 +1,12 @@
+{
+  "name": "muchinery-express",
+  "version": "0.1.0",
+  "description": "MuchineryJS web component on top of Express.js",
+  "author": "Luca Stasio <joshuagame@gmail.com>",
+  "main": "index.js",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "muchinery": "/Users/lucastasio/dev/oss/muchinery/dev/muchineryjs/muchinery"
+  }
+}
